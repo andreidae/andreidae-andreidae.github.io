@@ -6,3 +6,4 @@ tags: baleen whales, bowhead whales, demographic history, evolutionary genetics,
 ---
 
 A new paper lead by Lutz Bachman on mitogenomics and popuulation differetiation of bowhead whales from Svalbard has been published at the Zoological Journal of the Linnean Society.
+You can find the paper here: https://doi.org/10.1093/zoolinnean/zlaa082
