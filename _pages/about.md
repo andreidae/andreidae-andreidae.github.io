@@ -1,6 +1,14 @@
 ---
 permalink: /about/
 title: "About"
+excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+header:
+  overlay_image: /assets/images/header-photo.jpeg
+  caption: "Photo credit: Hielko"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
+
 ---
 
 Write something about you here. For example, the following is the first paragraph from the about page of minimal mistake.
