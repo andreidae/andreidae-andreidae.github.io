@@ -3,11 +3,11 @@ permalink: /about/
 title: "About"
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
-  overlay_image: /assets/images/header-photo.jpeg
-  caption: "Photo credit: Hielko"
+  overlay_image: /assets/images/andrea_lab0479.jpg
+  caption: "Photo credit: HH"
   actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
+    - label: "More Information"
+      url: "https://globe.ku.dk/staff-list/?pure=en/persons/660906"
 
 ---
 
