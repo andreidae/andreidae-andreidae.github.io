@@ -11,7 +11,7 @@ header:
   teaser: "/assets/images/Map_bowhead_Lutz.png"
 ---
 
-A new paper lead by Lutz Bachman on mitogenomics and popuulation differetiation of bowhead whales from Svalbard has been published at the Zoological Journal of the Linnean Society.
+A new paper lead by Lutz Bachman on mitogenomics and population differetiation of bowhead whales from Svalbard has been published at the Zoological Journal of the Linnean Society.
 
 <figure class="half">
     <a href="/assets/images/Map_bowhead_Lutz.png"><img src="/assets/images/Map_bowhead_Lutz.png"></a>
