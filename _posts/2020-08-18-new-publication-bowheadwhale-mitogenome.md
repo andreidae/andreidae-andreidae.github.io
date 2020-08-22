@@ -15,7 +15,7 @@ A new paper lead by Lutz Bachman on mitogenomics and popuulation differetiation 
 <figure class="half">
     <a href="/assets/images/Map_bowhead_Lutz.png"><img src="/assets/images/Map_bowhead_Lutz.png"></a>
     <a href="/assets/images/Haplotype_bowhead_Lutz.png"><img src="/assets/images/Haplotype_bowhead_Lutz.png"></a>
-    <figcaption> (Right) Current distribution and morphology of bowhead whale. (Left) Haplotype network of mitochondrial genomes from Savalbards bowhead whales.</figcaption>
+    <figcaption> (Right) Current distribution and morphology of bowhead whale. (Left) Haplotype network of mitochondrial genomes from Savalbards bowhead whales. Bowhead whale illustration by Frédérique Lucas. </figcaption>
 </figure>
 
 # Mitogenomics and the genetic differentiation of contemporary *Balaena mysticetus* (Cetacea) from Svalbard
