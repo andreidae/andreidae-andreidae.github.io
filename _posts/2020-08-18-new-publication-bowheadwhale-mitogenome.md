@@ -3,11 +3,12 @@ title:  "New paper on bowhead whale mitogenomes from Svalbard"
 date:   2020-08-18
 categories: publication
 tags: 
-- bowhead-whales 
-- demography genetics 
+- bowhead whales 
+- demography 
+- mitochondrial genomes
 - Spitsbergen
 header:
-  teaser: "/assets/images/header-photo.jpeg"
+  teaser: "/assets/images/Map_bowhead_Lutz.png"
 ---
 
 A new paper lead by Lutz Bachman on mitogenomics and popuulation differetiation of bowhead whales from Svalbard has been published at the Zoological Journal of the Linnean Society.
