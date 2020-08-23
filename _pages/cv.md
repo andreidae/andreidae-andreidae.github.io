@@ -3,14 +3,14 @@ permalink: /cv/
 title: "CV"
 
 toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+toc_label: "Table of content"
+toc_icon: "dna"  # corresponding Font Awesome icon name (without fa prefix)
 
 ---
 
 Under construction ...
 
-# Title 1
+title: Title 1
 
 a
 a
