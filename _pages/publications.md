@@ -30,7 +30,7 @@ title: "Publications"
 * Ortiz, J., Cabrera, A.A. (2013) Registro de Especies de Cetáceos en el Océano Pacífico de Guatemala. Revista Ciencia y Conservación. 3:50-58
 
 ### 2010-2012
-* Cabrera, A.A., Ortiz, J. (2012). Cetáceos de la Costa Pacífica de Guatemala. Parte II. Pacífico Central. Reporte técnico 102 (1-2012). Consejo Nacional de Áreas Protegidas. 49 pp.  
+* Cabrera, A.A., Ortiz, J. (2012). Cetáceos de la Costa Pacífica de Guatemala. Parte II. Pacífico Central. English title: Cetaceans of the Pacific coast of Guatemala. Part II: Central Pacific. Reporte técnico 102 (1-2012). Consejo Nacional de Áreas Protegidas. 49 pp.  
 * Cabrera, A.A, Ortiz, J., Romero, J. (2011). Implementación de actividades de capacitación sobre el estudio de la migración de ballenas jorobadas (Megaptera novaeangliae) en el pacifico oeste de guatemala. English title:  Increasing capacity for the study of humpback whales (Megaptera novaeangliae) migration in the western Pacific of Guatemala. Reporte final. Organization of American States/ Western Hemisphere Migratory Species Initiative Project –WHMSI- and CONAP.
 * Cabrera, A.A. (2011). Distribución y selección de hábitat de cetáceos en el pacífico este de Guatemala. Tesis de Licenciatura. Escuela de Biología. Universidad de San Carlos de Guatemala. 87 pp.
-* Cabrera, A.A., Ortiz, J. (2010). Cetáceos de la Costa Pacífica de Guatemala. Parte I. Pacífico Este. Reporte técnico 75 (1-2010). Consejo Nacional de Áreas Protegidas. 38 pp.  
+* Cabrera, A.A., Ortiz, J. (2010). Cetáceos de la Costa Pacífica de Guatemala. Parte I. Pacífico Este. English title: Cetaceans of the Pacific coast of Guatemala. Part I: Eastern Pacific. Reporte técnico 75 (1-2010). Consejo Nacional de Áreas Protegidas. 38 pp.  
