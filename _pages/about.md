@@ -17,7 +17,7 @@ The focus of my main research project is to understand how polar bear population
 
 
 <figure class="full">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/andrea_lab0476.jpg"
+    <img src="/assets/images/andrea_lab0476.jpg"
          alt="AncientLab">
     <figcaption>Ancient DNA laboratory</figcaption>
 </figure>
