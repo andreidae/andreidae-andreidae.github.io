@@ -3,8 +3,8 @@ permalink: /about/
 title: "About Andrea A. Cabrera"
 excerpt: "Postdoctoral researcher"
 header:
-  overlay_image: /assets/images/header-photo.jpeg
-  caption: "Photo credit: HH"
+  overlay_image: /assets/images/polar-bear-1665367.jpg
+  caption: "Image by skeeze from Pixabay"
   actions:
     - label: "More Information"
       url: "https://globe.ku.dk/staff-list/?pure=en/persons/660906"
