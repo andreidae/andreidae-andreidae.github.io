@@ -4,11 +4,11 @@ title: "CV"
 
 ---
 
-Under construction ...
+UNDER CONSTRUCTION <i class="fas fa-tools"></i>
 
 ## EDUCATION
 
-### 2018	University of Groningen, the Netherlands
+#### 2018	University of Groningen, the Netherlands
 Ph.D., Science (main topic: Genetics and genomics)
 Thesis: “Evolutionary ecology of marine mammals”. Supervisor: Prof. Dr. Per J. Palsbøll 
 
