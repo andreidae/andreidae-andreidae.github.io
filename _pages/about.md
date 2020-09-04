@@ -3,7 +3,7 @@ permalink: /about/
 title: "About Andrea A. Cabrera"
 excerpt: "Postdoctoral researcher"
 header:
-  overlay_image: /assets/images/polar-bear-1665367.jpg
+  overlay_image: /assets/images/polar-bears-1665367.jpg
   caption: "Image by skeeze from Pixabay"
   actions:
     - label: "More Information"
