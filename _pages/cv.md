@@ -2,20 +2,16 @@
 permalink: /cv/
 title: "CV"
 
-toc: true
-toc_label: "Table of content"
-toc_icon: "dna"  # corresponding Font Awesome icon name (without fa prefix)
-
 ---
 
 Under construction ...
 
-title: Title 1
+EDUCATION
 
-a
-a
+2018	University of Groningen, the Netherlands
+Ph.D., Science (main topic: Genetics and genomics)
+Thesis: “Evolutionary ecology of marine mammals”. Supervisor: Prof. Dr. Per J. Palsbøll 
 
-# Title 2
-
-b
-b
+2011	University of San Carlos of Guatemala, Guatemala
+Licenciatura degree in Biology (Graduated as magna cum laude)
+Thesis: “Distribution and habitat selection of cetaceans in the eastern pacific coast of Guatemala”. Supervisor: MSc. Miguel Angel Iñíguez
