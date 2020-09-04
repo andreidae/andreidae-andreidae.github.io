@@ -1,10 +1,10 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+title: "About Andrea A. Cabrera"
+excerpt: "Postdoctoral researcher"
 header:
-  overlay_image: /assets/images/andrea_lab0473.jpg
-  caption: "Photo credit: HH"
+  overlay_image: /assets/images/polar-bear-1665367.jpg
+  caption: "Image by skeeze from Pixabay"
   actions:
     - label: "More Information"
       url: "https://globe.ku.dk/staff-list/?pure=en/persons/660906"
@@ -17,7 +17,7 @@ The focus of my main research project is to understand how polar bear population
 
 
 <figure class="full">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/andrea_lab0476.jpg"
+    <img src="/assets/images/andrea_lab0476.jpg"
          alt="AncientLab">
     <figcaption>Ancient DNA laboratory</figcaption>
 </figure>
