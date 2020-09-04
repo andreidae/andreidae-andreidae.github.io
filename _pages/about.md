@@ -1,7 +1,7 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+title: "About Andrea A. Cabrera"
+excerpt: "Postdoctoral researcher"
 header:
   overlay_image: /assets/images/header-photo.jpeg
   caption: "Photo credit: HH"
