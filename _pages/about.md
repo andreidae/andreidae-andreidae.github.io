@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
-  overlay_image: /assets/images/andrea_lab0473.jpg
+  overlay_image: /assets/images/header-photo.jpeg
   caption: "Photo credit: HH"
   actions:
     - label: "More Information"
