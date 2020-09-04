@@ -16,8 +16,9 @@ I am currently a Postdoc at [Lorenzen's Group](https://globe.ku.dk/research/evog
 The focus of my main research project is to understand how polar bear populations have changed over time and how climate fluctuations have influenced their demographic history. 
 
 
-<figure>
-    <img src="/assets/images/andrea_lab0476.jpg"
+<figure class="full">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/andrea_lab0476.jpg"
          alt="AncientLab">
     <figcaption>Ancient DNA laboratory</figcaption>
 </figure>
+
