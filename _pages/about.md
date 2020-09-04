@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Andrea A. Cabrera"
+title: "Andrea A. Cabrera"
 excerpt: "Postdoctoral researcher"
 header:
   overlay_image: /assets/images/polar-bears-1665367.jpg
