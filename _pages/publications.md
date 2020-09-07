@@ -12,7 +12,7 @@ title: "Publications"
 
 * **Cabrera, A.A.**, Schall, E., Bérubé, M., Bachmann, L., Berrow, S., Best, P.B., Clapham, P.J., Cunha, H.A., Dalla Rosa, L., Dias, C., Findlay, K.P., Haug, T., Heide-Jørgensen, M.P., Kovacs, K.M., Landry, S., Larsen, F., Lopes, X.M., Lydersen, C., Mattila, D.K., Oosting, T., Pace, R.M., Papetti, C., Paspati, A., Pastene, L.A., Prieto, R., Ramp, C., Robbins, J., Ryan, C., Sears, R., Secchi, E.R., Silva, M.A., Víkingsson, G., Wiig, Ø., Øien, N., Palsbøll, P.J. (2018). Strong and lasting impacts of past global warming on baleen whale and prey abundance. **bioRxiv**, 497388. doi:10.1101/497388 
 
-* Huijser, L.A.E., Bérubé, M., **Cabrera, A.A.**, Prieto, R., Silva, M.A., Robbins, J., Kanda, N., Pastene, L.A., Goto, M., Yoshida H., Víkingsson, G.A., Palsbøll, P.J (2018) Population structure of North Atlantic and North Pacific sei whales (*Balaenoptera borealis*) inferred from mitochondrial control region DNA sequences and microsatellite genotypes. *Conservation genetics*. 19 (4), 1007-1024. doi:  10.1007/s10592-018-1076-5
+* Huijser, L.A.E., Bérubé, M., **Cabrera, A.A.**, Prieto, R., Silva, M.A., Robbins, J., Kanda, N., Pastene, L.A., Goto, M., Yoshida H., Víkingsson, G.A., Palsbøll, P.J (2018) Population structure of North Atlantic and North Pacific sei whales (*Balaenoptera borealis*) inferred from mitochondrial control region DNA sequences and microsatellite genotypes. **Conservation genetics**. 19 (4), 1007-1024. doi:  10.1007/s10592-018-1076-5
 
 * **Cabrera, A.A.** (2018) Evolutionary ecology of marine mammals. PhD Thesis, University of Groningen, Groningen, The Netherlands. ISBN 978-94-034-0549-0
 
