@@ -10,7 +10,7 @@ I try to contribute to the academic community in different ways. I have voluntee
 
 # Journal reviews
 
-Peer review process is important to keep science advancing and to promote high quality research. Therefore, I take review assignments seriously and usually spend a considerable effort if I agree to review a manuscript.
+Peer review process is important for the advancement and dissemination of scientific research. Therefore, I take review assignments seriously and usually spend a considerable effort to ensure it is constructive, objective and with a great sense of respect for the work of my peers. 
 
 <img src="/assets/images/publons-logo.png"
      alt="Test alt"
@@ -19,6 +19,6 @@ Peer review process is important to keep science advancing and to promote high q
      
 I have reviewed manuscripts for *Conservation Genetics*, *PeerJ*, *Molecular Ecology*, *Molecular Ecology Reports*, *Revista de Biología Marina y Oceanografía*, *Scientific Reports* and *Frontiers in Ecology and Evolution*.
 
-I use [Publons](https://publons.com/researcher/1518390/andrea-a-cabrera/peer-review/) to keep a record of my reviewer assignments. Have a look!
+I use [Publons](https://publons.com/researcher/1518390/andrea-a-cabrera/peer-review/) to keep a record of my reviewer assignments.
 
 
