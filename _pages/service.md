@@ -14,9 +14,6 @@ Peer review process is important to keep science advancing and to promote high q
 
 I have reviewed manuscripts for *Conservation Genetics*, *PeerJ*, *Molecular Ecology*, *Molecular Ecology Reports*, *Revista de Biología Marina y Oceanografía*, *Scientific Reports* and *Frontiers in Ecology and Evolution*.
 
--
-
-<img src="url" alt="alt text" width="whatever" height="whatever">
 
 <img src="/assets/images/publons-logo.png"
      alt="Markdown Monster icon"
