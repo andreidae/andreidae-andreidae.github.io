@@ -1,6 +1,6 @@
 ---
-permalink: /projects/
-title: "Projects"
+permalink: /service/
+title: "Service"
 ---
 
 # Service
