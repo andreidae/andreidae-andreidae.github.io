@@ -16,12 +16,11 @@ I have reviewed manuscripts for *Conservation Genetics*, *PeerJ*, *Molecular Eco
 
 -
 
+<img src="url" alt="alt text" width="whatever" height="whatever">
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/publons-logo.png){: .align-center}
-
-The image above happens to be **centered**.
-
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/publons-logo.png){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
+<img src="/assets/images/publons-logo.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 I use [Publons](https://publons.com/researcher/1518390/andrea-a-cabrera/peer-review/) to keep a record of my reviewer assignments. Have a look!
 
