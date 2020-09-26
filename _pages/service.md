@@ -14,9 +14,14 @@ Peer review process is important to keep science advancing and to promote high q
 
 I have reviewed manuscripts for *Conservation Genetics*, *PeerJ*, *Molecular Ecology*, *Molecular Ecology Reports*, *Revista de Biología Marina y Oceanografía*, *Scientific Reports* and *Frontiers in Ecology and Evolution*.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/publons-logo.png" alt="" class="half">
+-
 
-![image-right](/assets/images/publons-logo.png){: .align-right}
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/publons-logo.png){: .align-center}
+
+The image above happens to be **centered**.
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/publons-logo.png){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
 
 I use [Publons](https://publons.com/researcher/1518390/andrea-a-cabrera/peer-review/) to keep a record of my reviewer assignments. Have a look!
 
