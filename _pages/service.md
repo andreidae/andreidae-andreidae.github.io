@@ -8,7 +8,7 @@ I believe that been a scientist is not just about doing your own research but al
 I try to contribute to the academic community in different ways. I have volunteered for fieldwork, at the museum collections, as instructor, as journal reviewer, as editor or by organizing events. 
 
 
-# Journal reviews
+# Peer reviews
 
 Peer review process is important for the advancement and dissemination of scientific research. Therefore, I take review assignments seriously and usually spend a considerable effort to ensure it is constructive, objective and with a great sense of respect for the work of my peers. 
 
