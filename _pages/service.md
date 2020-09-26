@@ -20,7 +20,7 @@ I have reviewed manuscripts for *Conservation Genetics*, *PeerJ*, *Molecular Eco
 
 <img src="/assets/images/publons-logo.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     width="50%" height="50%"/>
 
 I use [Publons](https://publons.com/researcher/1518390/andrea-a-cabrera/peer-review/) to keep a record of my reviewer assignments. Have a look!
 
