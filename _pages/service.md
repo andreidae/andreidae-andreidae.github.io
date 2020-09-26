@@ -5,7 +5,7 @@ title: "Service"
 
 I believe that been a scientist is not just about doing your own research but also about contributing to society in and outside academia.
 
-I try to contribute to the academic community in different ways. I have volunteered for fieldwork, at the museum collections, as instructor, as journal reviewer, as editor or by organizing events. 
+I try to contribute to the academic community in different ways. I have volunteered for fieldwork and at museum collections. I have done volunteer work as instructor, as peer reviewer for journals, as editor, as organizor of confences and events, among others. 
 
 
 # Peer reviews
