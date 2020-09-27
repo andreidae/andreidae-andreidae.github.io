@@ -36,10 +36,3 @@ feature_row:
 ---
 
 {% include feature_row %}
-
-
-#---
-#layout: home
-#author_profile: true
-#---
-
