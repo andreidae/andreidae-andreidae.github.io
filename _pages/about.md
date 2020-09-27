@@ -19,7 +19,7 @@ I am currently a Postdoc at  [Lorenzen Group](https://globe.ku.dk/research/evoge
 <figure class="full">
     <img src="/assets/images/andrea_lab0476.jpg"
          alt="AncientLab"
-         width="50%" height="50%">
+         width="20%" height="20%">
     <figcaption>Ancient DNA laboratory</figcaption>
 </figure>
      
