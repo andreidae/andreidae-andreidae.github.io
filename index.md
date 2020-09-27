@@ -10,7 +10,7 @@ header:
       url: "/docs/quick-start-guide/"
 excerpt: >
   evolution,  genetics and genomics, marine mammals, ancient DNA, climate change.<br />
-  <small>[About](url: /_pages/about.md)</small>
+  <small>[About](url: "https://andreidae.github.io/about/")</small>
   <small><a url: "/_pages/about.md">Other</a></small>
 feature_row:
   - image_path: /assets/images/Front-book-Kraker_etal_2019.png
