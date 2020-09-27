@@ -10,14 +10,14 @@ header:
       url: "/docs/quick-start-guide/"
 excerpt: >
   evolution,  genetics and genomics, marine mammals, ancient DNA, climate change.<br />
-  <small>[About]({% link _pages/about.md %})</small>
+  <small>[About](/_pages/about.md)</small>
   <small><a url="/_pages/about">Other</a></small>
 feature_row:
   - image_path: /assets/images/Front-book-Kraker_etal_2019.png
     alt: "publications"
     title: "Publications"
     excerpt: "List of publications, including articles, books, reports and thesis."
-    url: /_pages/publications
+    url: "/_pages/publications.md"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
