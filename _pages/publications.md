@@ -11,7 +11,7 @@ title: "Publications"
 <img src="/assets/images/Front-book-Kraker_etal_2019.png"
      alt="Test alt"
      width="50%" height="50%"
-     align="right"/>
+     align="center"/>
      
 * Kraker, C., Calderón, A. P., **Cabrera, A.A.** (2019). Perspectivas de investigación sobre los mamíferos silvestres de Guatemala. English title: Research Perspectives on the Wild Mammals of Guatemala: Asociación Guatemalteca de Mastozoólogos. 261 pp.
 
