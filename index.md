@@ -17,7 +17,7 @@ feature_row:
     alt: "publications"
     title: "Publications"
     excerpt: "List of publications, including articles, books, reports and thesis."
-    url: "/_pages/publications/"
+    url: "/_pages/publications.md"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
