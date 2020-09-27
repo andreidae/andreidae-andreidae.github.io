@@ -12,9 +12,9 @@ excerpt: >
   evolution,  genetics and genomics, marine mammals, ancient DNA, climate change.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.20.2">About</a></small>
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
+  - image_path: /assets/images/Front-book-Kraker_etal_2019.png
+    alt: "publications"
+    title: "Publications"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
