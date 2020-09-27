@@ -15,8 +15,8 @@ feature_row:
   - image_path: /assets/images/Front-book-Kraker_etal_2019.png
     alt: "publications"
     title: "Publications"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    excerpt: "List of publications, including articles, books, reports and thesis."
+    url: "/_pages/publications.md"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
