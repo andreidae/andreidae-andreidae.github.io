@@ -8,6 +8,11 @@ title: "Publications"
 
 * **Cabrera A.A.**, Hoekendijk J.P.A., Aguilar A., Barco S.G., Berrow S., Bloch D., Borrell A., Cunha H.A., Dalla Rosa L., Dias C.P., Gauffier P., Hao W., Landry S., Larsen F., Martín V., Mizroch S., Oosting T., Øien N., Pampoulie C., Panigada S., S., Prieto, R., Ramp, C., Rivera-Léon, V.E., Robbins, J., Ryan, C., Schall, E., Sears, R., Silva, M.A., Urbán, J., Wenzel, F.W., Palsbøll, P.J., Bérubé, M. (2019). Fin whale (*Balaenoptera physalus*) mitogenomics: A cautionary tale of defining sub-species from mitochondrial sequence monophyly. **Molecular Phylogenetics and Evolution**, 135, 86-97. doi:10.1016/j.ympev.2019.02.003
 
+<img src="/assets/images/Front-book-Kraker_etal_2019.png"
+     alt="Test alt"
+     width="50%" height="50%"
+     align="right"/>
+     
 * Kraker, C., Calderón, A. P., **Cabrera, A.A.** (2019). Perspectivas de investigación sobre los mamíferos silvestres de Guatemala. English title: Research Perspectives on the Wild Mammals of Guatemala: Asociación Guatemalteca de Mastozoólogos. 261 pp.
 
 * **Cabrera, A.A.**, Schall, E., Bérubé, M., Bachmann, L., Berrow, S., Best, P.B., Clapham, P.J., Cunha, H.A., Dalla Rosa, L., Dias, C., Findlay, K.P., Haug, T., Heide-Jørgensen, M.P., Kovacs, K.M., Landry, S., Larsen, F., Lopes, X.M., Lydersen, C., Mattila, D.K., Oosting, T., Pace, R.M., Papetti, C., Paspati, A., Pastene, L.A., Prieto, R., Ramp, C., Robbins, J., Ryan, C., Sears, R., Secchi, E.R., Silva, M.A., Víkingsson, G., Wiig, Ø., Øien, N., Palsbøll, P.J. (2018). Strong and lasting impacts of past global warming on baleen whale and prey abundance. **bioRxiv**, 497388. doi:10.1101/497388 
