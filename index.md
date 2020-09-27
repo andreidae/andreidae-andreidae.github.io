@@ -10,7 +10,7 @@ header:
       url: "/docs/quick-start-guide/"
 excerpt: >
   evolution,  genetics and genomics, marine mammals, ancient DNA, climate change.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.20.2">About</a></small>
+  <small><a href="/_pages/about.md">About</a></small>
 feature_row:
   - image_path: /assets/images/Front-book-Kraker_etal_2019.png
     alt: "publications"
