@@ -16,14 +16,14 @@ feature_row:
     alt: "publications"
     title: "Publications"
     excerpt: "List of publications, including articles, books, reports and thesis."
-    url: https://andreidae.github.io/posts/
+    url: "https://andreidae.github.io/publications/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Posts"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    url: "/pages/posts.html"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
