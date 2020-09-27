@@ -10,7 +10,8 @@ header:
       url: "/docs/quick-start-guide/"
 excerpt: >
   evolution,  genetics and genomics, marine mammals, ancient DNA, climate change.<br />
-  <small><a href="/_pages/about">About</a></small>
+  <small>[document]({% link _pages/document.md %})</small>
+  #<small><a href="/_pages/about">About</a></small>
 feature_row:
   - image_path: /assets/images/Front-book-Kraker_etal_2019.png
     alt: "publications"
