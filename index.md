@@ -19,11 +19,11 @@ feature_row:
     url: "https://andreidae.github.io/publications/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Posts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: /_pages/posts.html
+  - image_path: /assets/images/front-news.png
+    alt: "News and Posts"
+    title: "News and Posts"
+    excerpt: "Latest news about the projects and posts"
+    url: "https://andreidae.github.io/posts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
