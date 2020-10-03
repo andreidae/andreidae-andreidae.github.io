@@ -12,7 +12,7 @@ excerpt: >
   evolution,  genetics and genomics, marine mammals, ancient DNA, climate change.<br />
   <small><a href="https://andreidae.github.io/about/">About</a></small>
 feature_row:
-  - image_path: /assets/images/Front-book-Kraker_etal_2019.png
+  - image_path: /assets/images/Publications.png
     alt: "publications"
     title: "Publications"
     excerpt: "List of publications, including articles, books, reports and thesis."
