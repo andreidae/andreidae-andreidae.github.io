@@ -23,7 +23,7 @@ feature_row:
     alt: "News and Posts"
     title: "News and Posts"
     excerpt: "Latest news about the projects and posts"
-    url: /_pages/posts.html
+    url: "https://andreidae.github.io/posts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
