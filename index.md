@@ -20,9 +20,9 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/front-news.png
-    alt: "news and posts"
-    title: "Posts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    alt: "News and Posts"
+    title: "News and Posts"
+    excerpt: "Latest news about the projects and posts"
     url: /_pages/posts.html
     btn_class: "btn--primary"
     btn_label: "Learn more"
